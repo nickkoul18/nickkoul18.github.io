@@ -11,5 +11,5 @@ Who would have known that I got into GitHub to fork a code and create my academi
 
 Nikos' personal academic website
 ======
-Under construction.
+Under construction. I've already managed to make many changes in the front page. I've put a picture and some links. Feel free to check them out!
 
