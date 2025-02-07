@@ -1,7 +1,7 @@
 ---
 title: "Book review: Double, Oliver, and Sharon Lockyer (eds.) (2022). Alternative Comedy Now and Then: Critical Perspectives. Palgrave Macmillan."
 collection: Publications
-category: Reviews
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'My first book review'
 date: 2024-04-26
