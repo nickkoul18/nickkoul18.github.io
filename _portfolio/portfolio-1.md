@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
  
-I collaborated with the authors of this academic undergaduate textbook in linguistic editing. My responsibilities included proofreading assistance in grammar, syntax, and punctuation among others. You can find the textbook [here](https://repository.kallipos.gr/handle/11419/9372).
+I collaborated with the authors of this academic undergraduate textbook in linguistic editing. My responsibilities included proofreading assistance in grammar, syntax, and punctuation. You can find the textbook [here](https://repository.kallipos.gr/handle/11419/9372).
