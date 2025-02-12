@@ -7,10 +7,7 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Poetic Talks"
-    url: /talks/    
-
+ 
   - title: "Teaching"
     url: /teaching/    
     
@@ -20,4 +17,5 @@ main:
   - title: "CV"
     url: /cv/
     
-
+ - title: "Poetic Talks"
+    url: /talks/    
