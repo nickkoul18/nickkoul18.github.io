@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Welcome to Nikos' academic website!"
+title: "Nikos' academic website!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Who would have known that I got into GitHub to fork a code and create my academic website from scratch! Perhaps I should change career. But I love being a linguist and I love humor studies. So I won't change career. I'll just continue learning new things that make my life better! Or perhaps I'll change this headline completely.
+
+
+Thank you for stopping by my website. I give you a warmfelt welcome and I introduce myself.
+
+I am a linguist, holding a Bachelor's degree in Philology from National and Kapodistrian University of Athens.
+I also hold a Master's degree in Linguistics from Leiden University, The Netherlands.
+I am currently a Ph.D. candidate at the department of Early Childhood Education at the National and Kapodistrian University of Athens. My dissertation involves Political Internet Memes, Political Humor and Identity Construction and Negotiation.
 
 Nikos' personal academic website
 ======
