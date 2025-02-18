@@ -158,6 +158,7 @@ include:
   - _pages
   - files
 exclude:
+  - _portfolio/portfolio-2.html
   - _teaching/2015-spring-teaching-2.md
   - "*.sublime-project"
   - "*.sublime-workspace"
