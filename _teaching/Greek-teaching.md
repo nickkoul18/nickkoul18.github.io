@@ -1,0 +1,19 @@
+---
+title: "Teaching Greek as a foreign language"
+collection: teaching
+type: "Online course"
+permalink: /teaching/2014-spring-teaching-1
+venue: ""
+date: 2024-2025
+location: "City, Country"
+---
+
+# Teaching Greek as a foreign language to beginner, intermediate, and advanced adult students. 
+
+
+1. **Personalized Learning**: I tailor lessons to my students' goals and provide materials for independent practice.
+2. **Meta-language Learning**: Together with my students we explore the mechanisms of the Greek language, enhancing their understanding of grammar and syntax.
+3. **Real-world Context**: I include, in my lessons, practical scenarios to help my students connect and familiarize themselves with the Greek-speaking environment.
+4. **Support and Encouragement**: I am always available to motivate my students and ensure a positive learning mindset.
+
+
