@@ -2,7 +2,7 @@
 title: "Teaching Greek as a foreign language"
 collection: teaching
 type: "Online course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Greek-teaching
 venue: ""
 date: 2024-2025
 location: "City, Country"
