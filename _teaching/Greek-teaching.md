@@ -4,7 +4,7 @@ collection: teaching
 type: "Online course"
 permalink: /teaching/Greek-teaching
 venue: ""
-date: 2024-2025
+date: 2024
 location: "City, Country"
 ---
 
