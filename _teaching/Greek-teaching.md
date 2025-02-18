@@ -3,9 +3,9 @@ title: "Teaching Greek as a foreign language"
 collection: teaching
 type: "Online course"
 permalink: /teaching/Greek-teaching
-venue: ""
+venue: "Online Platform"
 date: 2024-12-22
-location: "City, Country"
+location: "Athens, Greece"
 ---
 
 # Teaching Greek as a foreign language to beginner, intermediate, and advanced adult students. 
