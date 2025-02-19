@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="../files/New-CV-Koulopoulos.pdf" type="application/pdf" frameBorder="0" scrolling="auto" height="800px" width="100%"></iframe>
+<iframe src="../files/CV-Koulopoulos.pdf" type="application/pdf" frameBorder="0" scrolling="auto" height="800px" width="100%"></iframe>
 
