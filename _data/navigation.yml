@@ -15,7 +15,7 @@ main:
     url: /portfolio/      
     
   - title: "CV"
-    url: /files/CV-Koulopoulos.pdf
+    url: /cv/
     
   - title: "Talks"
     url: /talks/    
